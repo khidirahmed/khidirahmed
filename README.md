@@ -6,9 +6,11 @@ My name is Khidir, and I am a computer science and economics major at NYU. I lov
 
 A hobby I really enjoy is attending hackathons; I've attended a few so far and am scheduled to attend many more in the future! I like attending them because you get to code and build a really awesome project while collaborating and networking with great people. Feel free to visit my [devpost](https://devpost.com/kka6822?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav) and check out my projects! 
 
+I also really like watching shows and anime, hence the obito pfp :)
 
+# Tech Stack
+---
 
-### Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
@@ -24,6 +26,7 @@ A hobby I really enjoy is attending hackathons; I've attended a few so far and a
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
