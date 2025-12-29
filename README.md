@@ -1,5 +1,19 @@
 ## Hi there 👋
 
+
+
+
+### Tech Stack
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="skillicons.dev" />
+  </a>
+</p>
+
+### Skills
+![JavaScript](img.shields.io)
+![Python](img.shields.io)
+
 <!--
 **khidirahmed/khidirahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
