@@ -4,7 +4,7 @@ Hi,
 
 My name is Khidir, and I am a computer science and economics major at NYU. I love to be involved in projects that I find interesting and unique. Building reliable and enjoyable software is my passion! 
 
-A hobby I really enjoy is attending hackathons; I've attended a few so far and am scheduled to attend many more in the future! I like attending them because you get to code and build a really awesome project while collaborating and networking with great people. Feel free to visit my [devpost](https://devpost.com/kka6822?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav) and check out my projects! 
+A hobby I really enjoy is attending hackathons; I've attended a few so far and am scheduled to attend many more in the future! I like attending them because you get to code and build a really awesome project while collaborating and networking with great people. Feel free to visit my [devpost](https://devpost.com/khidir) and check out my projects! 
 
 I also really like watching shows and anime, hence the obito pfp :)
 
